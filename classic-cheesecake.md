@@ -1,5 +1,5 @@
-Classic Cheesecake
-===================
+Classic Cheesecake :cake:
+=========================
 
 ## Ingredients
 

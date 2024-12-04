@@ -1,5 +1,5 @@
-Best-Ever Steak Marinade :steak:
-==================================
+Best-Ever Steak Marinade :cut_of_meat:
+======================================
 
 ## Ingredients
 

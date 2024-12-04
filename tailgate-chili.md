@@ -1,5 +1,5 @@
-Tailgate Chili
-===============
+Tailgate Chili :hot_pepper:
+===========================
 
 ## Ingredients
 

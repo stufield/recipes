@@ -1,5 +1,5 @@
-Chocolate Eclair
-================
+Chocolate Eclair :fr:
+=====================
 
 ## Ingredients
 

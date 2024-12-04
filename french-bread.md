@@ -1,5 +1,5 @@
-French Bread :bread:
-======================
+French Bread :baguette_bread:
+=============================
 
 ## Ingredients (4)
 

@@ -1,7 +1,7 @@
-Malti's Curry Rice
-==================
+Malti's Curry Rice :india:
+==========================
 
-## Ingredients
+## Ingredients :curry:
    
  - 2-3 tbsp vegetable oil
  - ~2 cups pre-boiled water
