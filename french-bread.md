@@ -3,9 +3,9 @@ French Bread :bread:
 
 ## Ingredients (4)
 
-- 975g bread flour
+- 975g bread flour (King Arthur unbleached)
 - 2 tsp kosher (no iodine) salt
-- 3/4 tsp bakers yeast
+- 3/4 tsp bakers yeast (Fleischmann's ActiveDry Original)
 - 850 mL water (room temp.)
 
 ---
