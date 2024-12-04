@@ -11,14 +11,14 @@ Classic Cheesecake
 - 1 tsp of vanilla
 - 2 tbsp of cornstarch
 - 5 eggs
-- **CRUST:**
+- **Crust:**
   - 20 Leibniz crackers
   - 2 tsp of cinnamon
   - 5 tsp of sugar
   - butter
   - 1 egg yolk
   - almonds
-- **TOPPING:**
+- **Topping:**
   - fruit
   - sahne quark with sugar added
 
